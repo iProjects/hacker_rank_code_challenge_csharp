@@ -1,0 +1,6 @@
+D:\wakxpx\csharp\sharpdevelop\hacker_rank_solve_me_first\hacker_rank_solve_me_first\bin\Debug\hacker_rank_solve_me_first.exe.config
+D:\wakxpx\csharp\sharpdevelop\hacker_rank_solve_me_first\hacker_rank_solve_me_first\bin\Debug\hacker_rank_solve_me_first.exe
+D:\wakxpx\csharp\sharpdevelop\hacker_rank_solve_me_first\hacker_rank_solve_me_first\bin\Debug\hacker_rank_solve_me_first.pdb
+D:\wakxpx\csharp\sharpdevelop\hacker_rank_solve_me_first\hacker_rank_solve_me_first\obj\Debug\hacker_rank_solve_me_first.csprojResolveAssemblyReference.cache
+D:\wakxpx\csharp\sharpdevelop\hacker_rank_solve_me_first\hacker_rank_solve_me_first\obj\Debug\hacker_rank_solve_me_first.exe
+D:\wakxpx\csharp\sharpdevelop\hacker_rank_solve_me_first\hacker_rank_solve_me_first\obj\Debug\hacker_rank_solve_me_first.pdb

@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hacker_rank_solve_me_first", "hacker_rank_solve_me_first\hacker_rank_solve_me_first.csproj", "{7A70720C-1ECD-402F-BCB4-66ECB118074E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A70720C-1ECD-402F-BCB4-66ECB118074E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A70720C-1ECD-402F-BCB4-66ECB118074E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A70720C-1ECD-402F-BCB4-66ECB118074E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A70720C-1ECD-402F-BCB4-66ECB118074E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
